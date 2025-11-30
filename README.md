@@ -1,14 +1,7 @@
 # FIFA22 Player Data Analysis
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Used Libraries](#used-libraries)
-3. [Methodology](#methodology)
-4. [Answered Questions](#answered-questions)
-5. [Conclusion](#conclusion)
-
 ## Overview
-This project analyzes FIFA22 player data, leveraging statistical and machine learning techniques to gain insights into player rankings, preferred foot predictions, and player grouping through clustering.
+This project was completed as a homework assignment for Spring 2023 Data Science for Everyone (DS-UA 111). This project analyzes FIFA22 player data, leveraging statistical and machine learning techniques to gain insights into player rankings, preferred foot predictions, and player grouping through clustering.
 
 ## Used Libraries
 - pandas
